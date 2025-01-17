@@ -1,6 +1,6 @@
 # 24*7 Healthcare Application
 
-> **Overview**
+## Overview
 
 The "24*7 Healthcare" application is an advanced and comprehensive platform designed to provide healthcare services at any time. This application aims to improve access to healthcare by offering a wide range of functionalities, including user registration, finding specialist doctors, booking laboratory tests, purchasing medications, and accessing health articles. With a user-friendly and intuitive interface, the application helps users manage their healthcare needs effectively and easily.
 
