@@ -4,6 +4,28 @@
 
 The "24*7 Healthcare" application is an advanced and comprehensive platform designed to provide healthcare services at any time. This application aims to improve access to healthcare by offering a wide range of functionalities, including user registration, finding specialist doctors, booking laboratory tests, purchasing medications, and accessing health articles. With a user-friendly and intuitive interface, the application helps users manage their healthcare needs effectively and easily.
 
+## Running the Project in Android Studio
+
+Follow these steps to set up and run the project in Android Studio:
+
+### 1. Open Android Studio
+- After installing Android Studio, open it from the desktop icon or the start menu.
+
+### 2. Create a New Project
+- Click on **"Start a new Android Studio project."**
+- Choose a template (e.g., **"Empty Activity"**).
+- Give your project a name and select the location where you want to save it.
+- Choose the minimum Android version for your app and click **"Finish."**
+
+### 3. To Run the Project
+- After the project opens, click the **Run** button (the green triangle) located at the top of the screen.
+- Select an Android emulator or connect an Android device via USB, ensuring debugging is enabled on your phone.
+- Android Studio will compile and run the project on the selected emulator or physical device.
+
+### 4. View the Results
+- After installation is complete, the app will appear on your device or emulator screen, and you can begin testing.
+
+
 **Structure and Functionalities**
 
 ### 1. Registration and Login
