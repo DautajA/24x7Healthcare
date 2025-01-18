@@ -8,22 +8,19 @@ The "24*7 Healthcare" application is an advanced and comprehensive platform desi
 
 Follow these steps to set up and run the project in Android Studio:
 
-### 1. Open Android Studio
-- After installing Android Studio, open it from the desktop icon or the start menu.
+### 1. Open the Project in Android Studio
+- Open **Android Studio**.
+- Click on **"Open this project"**.
+- Navigate to the folder where you cloned the project and click **"OK"**.
+- Android Studio will open the project, and you can begin working on it.
 
-### 2. Create a New Project
-- Click on **"Start a new Android Studio project."**
-- Choose a template (e.g., **"Empty Activity"**).
-- Give your project a name and select the location where you want to save it.
-- Choose the minimum Android version for your app and click **"Finish."**
+### 2. Set Up the Project
+- Make sure you have all the necessary Android SDK versions and other configurations required for the project.
+- Android Studio might ask you to install certain packages or components. Follow the instructions to complete the setup.
 
-### 3. To Run the Project
-- After the project opens, click the **Run** button (the green triangle) located at the top of the screen.
-- Select an Android emulator or connect an Android device via USB, ensuring debugging is enabled on your phone.
-- Android Studio will compile and run the project on the selected emulator or physical device.
-
-### 4. View the Results
-- After installation is complete, the app will appear on your device or emulator screen, and you can begin testing.
+### 3. Run the Project
+- Once the project is open in Android Studio, click the **Run** button (green triangle) to execute the project.
+- Choose an Android emulator or connect a physical Android device via USB to run the project and view the results.
 
 
 **Structure and Functionalities**
